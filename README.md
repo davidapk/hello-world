@@ -1,3 +1,3 @@
 # hello-world
-my first gitHub
 let`s study gitHub now!
+Today i studied gibHub,happiness everyOne!
